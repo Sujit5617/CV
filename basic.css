@@ -1,0 +1,28 @@
+.image{
+    max-width: 150px;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.image img{
+    display: flex;
+    margin:  auto;
+    height: 180px;
+    width: 150px; 
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 10%;  
+}
+.tb{
+    margin:0%;
+    padding:0%;
+    background-color: aquamarine;
+}
+.heading{
+    background-color: yellow;
+    margin:0px;
+    padding:0px;
+}
